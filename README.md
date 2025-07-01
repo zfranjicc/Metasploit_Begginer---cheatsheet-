@@ -4,6 +4,27 @@
 
 If you're a beginner in the world of ethical hacking, this is the perfect place to learn the basics of using Metasploit – one of the most powerful tools for penetration testing.
 
+---
+
+## 📚 Table of Contents
+
+- [🔧 Launching Metasploit](#launching-metasploit)
+- [❓ What is Metasploit?](#what-is-metasploit)
+- [🔎 Navigating Through Modules](#navigating-through-modules)
+- [📌 What Are Parameters?](#what-are-parameters)
+- [🧠 Explanation of Basic Parameters](#explanation-of-basic-parameters)
+- [⚙️ Setting Parameters](#setting-parameters)
+- [📜 Types of Prompts in Metasploit](#types-of-prompts-in-metasploit)
+- [🧪 Check Vulnerability Without Exploiting](#check-vulnerability-without-exploiting)
+- [💣 Exploitation](#exploitation)
+- [💻 Session Management](#session-management)
+- [🔁 Useful Meterpreter Commands – Quick Reference Table](#useful-meterpreter-commands--quick-reference-table)
+- [✅ Example: Full Attack Flow (MS17-010)](#example-full-attack-flow-ms17-010)
+- [🧾 Quick Reference Table](#quick-reference-table)
+- [🚀 What Can You Do After Exploitation?](#what-can-you-do-after-exploitation)
+
+---
+
 ## 🔧 Launching Metasploit
 
 ---
